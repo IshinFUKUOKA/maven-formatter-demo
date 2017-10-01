@@ -1,4 +1,4 @@
-package com.yoghurt1131.maveformatterdemo;
+package com.yoghurt1131.mavenformatterdemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
